@@ -1,6 +1,13 @@
 # Lenny's Product Skills for Claude Code
 
-86 product management skills distilled from [Lenny's Podcast](https://www.lennyspodcast.com/) interviews with world-class product leaders. Built for PMs, founders, and product teams who want Claude to help with real product work.
+[![GitHub stars](https://img.shields.io/github/stars/RefoundAI/lenny-skills?style=social)](https://github.com/RefoundAI/lenny-skills)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Skills](https://img.shields.io/badge/skills-86-blue)](https://github.com/RefoundAI/lenny-skills/tree/main/skills)
+[![Podcast Episodes](https://img.shields.io/badge/podcast%20episodes-100%2B-green)](https://www.lennyspodcast.com/)
+
+**86 product management skills** distilled from [Lenny's Podcast](https://www.lennyspodcast.com/) interviews with world-class product leaders. Built for PMs, founders, and product teams who want Claude to help with real product work.
+
+> *"The best product advice from Shreyas Doshi, Marty Cagan, Elena Verna, and 90+ more leaders — available in your terminal."*
 
 Curated by [Refound AI](https://refound.ai) from 100+ podcast episodes featuring guests like Shreyas Doshi, Marty Cagan, Elena Verna, Christina Wodtke, and more.
 
@@ -269,6 +276,12 @@ These skills were created by analyzing 100+ episodes of [Lenny's Podcast](https:
 - And 90+ more product leaders
 
 Built by [Refound AI](https://refound.ai) - helping companies transform with AI.
+
+## Star History
+
+If you find this useful, please star the repo to help others discover it!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=RefoundAI/lenny-skills&type=Date)](https://star-history.com/#RefoundAI/lenny-skills&Date)
 
 ## License
 
